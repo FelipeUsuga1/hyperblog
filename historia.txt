@@ -1,12 +1,7 @@
 Esta es la historia de Felipe Usuga
 
 Felipe tiene 23 años y nacio en Medellin
-Viviendo en todo el mundo
 
-<<<<<<< HEAD
-Hoy hablaremos de su vida y obra maestra.
+Anita platzi tiene 41 años y nacio en internet
 
-En camara parece alto pero en realidad no es tan alto.
-=======
-Mañana nos enfocaremos en su vida laboral.
->>>>>>> cabecera
+Mañana nos enfocaremos en su vida laboral
