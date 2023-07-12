@@ -1,6 +1,6 @@
 # hyperblog
 Un blog para practicar github
->El curso de Git y Github de platzi es lo que me hacia falta para volverme un mejor profesion y poder trabajar de forma colaborativa en proyectos con mis compañeros de la universidad y eventualmente con mis compañeros de trabajo.
+>El curso de Git y Github de platzi es lo que me hacia falta para volverme un mejor profesional y poder trabajar de forma colaborativa en proyectos con mis compañeros de la universidad y eventualmente con mis compañeros de trabajo.
 > - Developers
 
 En este curso vemos de todo:
