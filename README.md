@@ -9,5 +9,6 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas 
 * Trucos muy locos del profesor
 * Git y GitHub de forma profesional
+* Creado por mi.
 
 Y como un amable recordatorio **dentro de poco sere un ingeniero de sistemas.** Puedes encontrar el curso en este [link](https://platzi.com/cursos/git-github/)
