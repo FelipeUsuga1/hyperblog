@@ -11,4 +11,5 @@ En este curso vemos de todo:
 * Git y GitHub de forma profesional
 * Creado por mi.
 * Incluye ejemplos en Windows.
+* Disponible para todas las edades.
 Y como un amable recordatorio **dentro de poco sere un ingeniero de sistemas.** Puedes encontrar el curso en este [link](https://platzi.com/cursos/git-github/)
