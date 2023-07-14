@@ -10,5 +10,5 @@ En este curso vemos de todo:
 * Trucos muy locos del profesor
 * Git y GitHub de forma profesional
 * Creado por mi.
-
+* Incluye ejemplos en Windows.
 Y como un amable recordatorio **dentro de poco sere un ingeniero de sistemas.** Puedes encontrar el curso en este [link](https://platzi.com/cursos/git-github/)
